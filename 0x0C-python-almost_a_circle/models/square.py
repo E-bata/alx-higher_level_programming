@@ -8,7 +8,10 @@ class Square(Rectangle):
 
     def __init__(self, size, x=0, y=0, id=None):
         """Initialize a new Square.
+<<<<<<< HEAD
 
+=======
+>>>>>>> cba5eb7ae25de14095f4de671fa00c46b03d63bc
         Args:
             size (int): The size of the new Square.
             x (int): The x coordinate of the new Square.
@@ -29,7 +32,10 @@ class Square(Rectangle):
 
     def update(self, *args, **kwargs):
         """Update the Square.
+<<<<<<< HEAD
 
+=======
+>>>>>>> cba5eb7ae25de14095f4de671fa00c46b03d63bc
         Args:
             *args (ints): New attribute values.
                 - 1st argument represents id attribute
